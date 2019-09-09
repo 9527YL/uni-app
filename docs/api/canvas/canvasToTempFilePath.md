@@ -4,11 +4,11 @@
 
 **OBJECT参数说明：**
 
-|参数	|类型		|必填		|说明	|
-|---|---|---|---|---|
-|x	|Number		|否			|画布x轴起点（默认0）|					
-|y	|Number		|否			|画布y轴起点（默认0）|					
-|width	|Number		|否			|画布宽度（默认为canvas宽度-x）|					
+| 参数	| 类型		| 必填		| 说明	|
+|---|---|---|---|
+| x	| Number		| 否			| 画布x轴起点（默认0）|					
+| y	|Number		|否			| 画布y轴起点（默认0）|					
+| width	| Number		| 否			| 画布宽度（默认为canvas宽度-x）|					
 |height	|Number		|否			|画布高度（默认为canvas高度-y）|					
 |destWidth	|Number		|否			|输出图片宽度（默认为 width * 屏幕像素密度）|					
 |destHeight	|Number		|否			|输出图片高度（默认为 height * 屏幕像素密度）|					
